@@ -1,4 +1,4 @@
-## Hi there 👋
+## Actualmente estudiando desarrollo Backend e Ia 
 
 <!--
 **Javi-kl/javi-kl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
