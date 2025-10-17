@@ -1,6 +1,4 @@
-<p align="center">
-# Javier Sotos
-</p>
+<h1 align="center">Javier Sotos</h1>
 
 <p align="center">
   <em>Desarrollador Backend en formación, apasionado por el código abierto y tecnologías descentralizadas.</em>
