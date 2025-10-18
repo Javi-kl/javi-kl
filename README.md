@@ -33,7 +33,7 @@ Experiencia en la **administración y seguridad de sistemas Linux**, incluyendo:
 ### Mis Proyectos
 
 - **Retos de Programación:** Resolviendo los retos de **[@Mouredev](https://github.com/mouredev)** para mejorar mi lógica. Mis soluciones: https://github.com/Javi-kl/retos-programacion-mouredev
-- **Infraestructura P2P:** Despliegue y mantenimiento de un nodo de red distribuida, optimizando gestión de recursos y la conectividad de red.
+
 
 
 ### Dónde Encontrarme
