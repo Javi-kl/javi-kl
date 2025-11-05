@@ -18,8 +18,7 @@ Experiencia en la **administración y seguridad de sistemas Linux**, incluyendo:
 - Implementación de políticas de seguridad con firewalls (UFW) y perfiles de AppArmor.
 - Automatización de actualizaciones de seguridad y mantenimiento del sistema.
 - Familiaridad con la gestión de servicios a través de systemd.
-
-
+***
 ### Mi Stack Tecnológico
 
 | Experiencia Práctica en: | Actualmente Enfocado en: |
@@ -28,13 +27,13 @@ Experiencia en la **administración y seguridad de sistemas Linux**, incluyendo:
 | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
 | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) | |
-
+***
 
 ### Mis Proyectos
 
 - **Retos de Programación Parte 1:** Resolviendo los retos de **[@Mouredev](https://github.com/mouredev)** hasta el ejercicio 30. Mis soluciones: https://github.com/Javi-kl/retos-programacion-mouredev
 - **Retos de Programación Parte 2:** Resolviendo el resto de ejercicios de **[@Mouredev](https://github.com/mouredev)** con pytest metodo TDD. 
-
+***
 
 ### Dónde Encontrarme
 
