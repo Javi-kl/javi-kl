@@ -10,7 +10,7 @@
 
 Actualmente cursando -ConquerBlocks FullStack- mientras construyo mi portafolio. Mi objetivo es especializarme en el desarrollo de sistemas backend sobre infraestructuras seguras y eficientes.
 Me interesa especialmente el ecosistema de software libre y la descentralización.
----
+***
 ### Entornos y Sistemas
 
 Experiencia en la **administración y seguridad de sistemas Linux**, incluyendo:
