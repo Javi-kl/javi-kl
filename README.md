@@ -35,7 +35,6 @@ Experiencia en la **administración y seguridad de sistemas Linux**, incluyendo:
 - **Retos de Programación Parte 2:** Resolviendo el resto de ejercicios de **[@Mouredev](https://github.com/mouredev)** con pytest metodo TDD. 
 ***
 
-### Dónde Encontrarme
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-s-3177722b9/)
 
