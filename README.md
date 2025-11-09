@@ -31,8 +31,8 @@ Experiencia en la **administración y seguridad de sistemas Linux**, incluyendo:
 
 ### Mis Proyectos
 
-- **Retos de Programación Parte 1:** Resolviendo los retos de **[@Mouredev](https://github.com/mouredev)** hasta el ejercicio 30. Mis soluciones: https://github.com/Javi-kl/retos-programacion-mouredev
-- **Retos de Programación Parte 2:** Resolviendo el resto de ejercicios de **[@Mouredev](https://github.com/mouredev)** con pytest metodo TDD. 
+- **Retos de Programación:** Resolviendo los retos de **[@Mouredev](https://github.com/mouredev)** hasta el ejercicio 30. Mis soluciones: https://github.com/Javi-kl/retos-programacion-mouredev
+
 ***
 
 
