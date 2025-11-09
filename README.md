@@ -11,13 +11,14 @@
 Actualmente cursando -ConquerBlocks FullStack- mientras construyo mi portafolio. Mi objetivo es especializarme en el desarrollo de sistemas backend sobre infraestructuras seguras y eficientes.
 Me interesa especialmente el ecosistema de software libre y la descentralización.
 ***
-### Entornos y Sistemas
+### Entorno de Desarrollo
+Trabajo principalmente en entornos Linux (Pop!_OS como sistema principal, Debian en servidor). Experiencia en:
 
-Experiencia en la **administración y seguridad de sistemas Linux**, incluyendo:
-- Configuración de distribuciones (Debian,Ubuntu) desde una base mínima.
-- Implementación de políticas de seguridad con firewalls (UFW) y perfiles de AppArmor.
-- Automatización de actualizaciones de seguridad y mantenimiento del sistema.
-- Familiaridad con la gestión de servicios a través de systemd.
+- Configuración de distribuciones Debian/Ubuntu desde una base mínima
+
+- Gestión de servicios con systemd
+
+- Configuración básica de seguridad (UFW, permisos de usuario)
 ***
 ### Mi Stack Tecnológico
 
@@ -26,7 +27,7 @@ Experiencia en la **administración y seguridad de sistemas Linux**, incluyendo:
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
 | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
 | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) | |
+| | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)|
 ***
 
 ### Mis Proyectos
