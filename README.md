@@ -31,7 +31,7 @@ Trabajo en entornos Linux (Pop!_OS como sistema principal, Debian en servidor). 
 
 ### Mis Proyectos
 
-- **Retos de Programación:** Resolviendo los retos de **[@Mouredev](https://github.com/mouredev)** hasta el ejercicio 30. Mis soluciones: https://github.com/Javi-kl/retos-programacion-mouredev
+- **Retos de Programación:https://github.com/Javi-kl/retos-programacion-mouredev** Resolviendo los retos de **[@Mouredev](https://github.com/mouredev)** hasta el ejercicio 30(El resto se subirán al repositorio oficial).
 
 ***
 
