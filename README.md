@@ -6,13 +6,12 @@
 
 ---
 
-### Sobre Mí
 
 Actualmente cursando -ConquerBlocks FullStack- mientras construyo mi portafolio. Mi objetivo es especializarme en el desarrollo de sistemas backend sobre infraestructuras seguras y eficientes.
 Me interesa especialmente el ecosistema de software libre y la descentralización.
 ***
-### Entorno de Desarrollo
-Trabajo principalmente en entornos Linux (Pop!_OS como sistema principal, Debian en servidor). Experiencia en:
+
+Trabajo en entornos Linux (Pop!_OS como sistema principal, Debian en servidor). Experiencia en:
 
 - Configuración de distribuciones Debian/Ubuntu desde una base mínima
 
