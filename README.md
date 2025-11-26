@@ -39,6 +39,15 @@ Desarrollador en formación con ganas de colaborar en proyectos reales y crecer 
 
 ***
 
+</br>
+<h2>Estadisticas Codewars</h2>
+<div>
+
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=javikl)](https://github.com/ignacio-cuadra/github-readme-codewars)
+</div>
+
+***
+
 <h2 align="left">Contacto</h2>
 
 
