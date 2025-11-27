@@ -5,6 +5,8 @@
 Apasionado por construir backend seguro, eficiente y orientado a la privacidad.  
 Desarrollador en formación con ganas de colaborar en proyectos reales y crecer profesionalmente.
 <br>
+<br>
+
 
  -  🔭 Actualmente trabajando en: <br>Mi primer proyecto python-secure-notes<br>
 
@@ -14,17 +16,18 @@ Desarrollador en formación con ganas de colaborar en proyectos reales y crecer 
 
 - 💬 Pregunta lo que quieras, te ayudaré si puedo 😉  
 
+
+
 <br>
-
-
-***
+<br>
 <h2 align="left">Stack tecnológico</h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
-***
+<br>
+<br>
 
 <h2 align="left">Contacto</h2>
 
@@ -34,7 +37,8 @@ Desarrollador en formación con ganas de colaborar en proyectos reales y crecer 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:klife.richness688@passinbox.com)
 
 
-***
+<br>
+
 <!-- Current Stats card -->
 </br>
 <h2>Estadisticas Github</h2>
@@ -46,14 +50,11 @@ Desarrollador en formación con ganas de colaborar en proyectos reales y crecer 
     </a>
 </div>
 
-***
-
+<br>
 </br>
 <h2>Estadisticas Codewars</h2>
 <div>
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=javikl)](https://github.com/ignacio-cuadra/github-readme-codewars)
 </div>
-
-***
 
