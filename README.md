@@ -2,7 +2,7 @@
 
 <h2 align="left">Sobre mí</h2>
 
-Apasionado por construir backend seguro, eficiente y orientado a la privacidad, utilizando Python y tecnologías open source.  
+Apasionado por construir backend seguro, eficiente y orientado a la privacidad.  
 Desarrollador en formación con ganas de colaborar en proyectos reales y crecer profesionalmente.
 <br>
 
@@ -26,6 +26,15 @@ Desarrollador en formación con ganas de colaborar en proyectos reales y crecer 
 
 ***
 
+<h2 align="left">Contacto</h2>
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javi_kl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-s-3177722b9/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:klife.richness688@passinbox.com)
+
+
+***
 <!-- Current Stats card -->
 </br>
 <h2>Estadisticas Github</h2>
@@ -48,12 +57,3 @@ Desarrollador en formación con ganas de colaborar en proyectos reales y crecer 
 
 ***
 
-<h2 align="left">Contacto</h2>
-
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javi_kl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-s-3177722b9/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:klife.richness688@passinbox.com)
-
-
-***
