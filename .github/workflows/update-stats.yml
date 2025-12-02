@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # Se actualiza cada 24 horas automáticamente
   schedule: [{cron: "0 0 * * *"}]
-  # Permite ejecutarlo manualmente desde la pestaña Actions
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -13,20 +11,27 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Tu token por defecto de GitHub (no necesitas crear nada)
           token: ${{ secrets.GITHUB_TOKEN }}
-
-          # Configuración para que se parezca a tu tarjeta anterior
-          user: javi-kl
-          template: classic
-          base: header, repositories
-          config_timezone: Europe/Madrid
+          user: jakl
           
-          # TUS COLORES (Migrados de tu URL anterior)
+          # --- CONFIGURACIÓN MINIMALISTA ---
+          # Desactivamos la cabecera gigante (header) y repositorios
+          base: "" 
+          
+          # Activamos solo las stats clave (Estilo github-readme-stats)
+          plugin_base: yes
+          plugin_base_header: no
+          plugin_base_indepth: yes 
+          
+          # Ajustamos el tamaño y estilo
+          config_display: regular # Evita que sea "large"
+          template: classic
+          
+          # TUS COLORES EXACTOS
           config_style: |
             background-color: #0D1017;
             color: #E8EDF3;
             border-radius: 0px;
           
-          # Nombre del archivo que se generará
           filename: github-metrics.svg
+
