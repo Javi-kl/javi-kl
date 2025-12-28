@@ -8,7 +8,7 @@ Desarrollador en formación con ganas de colaborar en proyectos reales y crecer 
 <br>
 
 
- -  🔭 Actualmente trabajando en: <br>Mi primer proyecto python-secure-notes<br>
+ -  🔭 Actualmente trabajando en: <br>[SQL-Labs](https://github.com/Javi-kl/SQL-Labs) -  Profundizando en SQL para backend.<br>
 
 - 👯 Buscando colaborar en proyectos python
 
