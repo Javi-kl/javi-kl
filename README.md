@@ -12,7 +12,7 @@ Desarrollador en formación con ganas de colaborar en proyectos reales y crecer 
 
 - 👯 Buscando colaborar en proyectos python
 
-- 🌱 Aprendiendo: <br>![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br>
+- 🌱 Aprendiendo: <br>![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br>
 
 - 💬 Pregunta lo que quieras, te ayudaré si puedo 😉  
 
@@ -23,6 +23,7 @@ Desarrollador en formación con ganas de colaborar en proyectos reales y crecer 
 <h2 align="left">Stack tecnológico</h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 
