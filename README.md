@@ -8,7 +8,8 @@ Desarrollador en formación con ganas de colaborar en proyectos reales y crecer 
 <br>
 
 
- -  🔭 Actualmente trabajando en: <br>[SQL-Labs](https://github.com/Javi-kl/SQL-Labs) -  Profundizando en SQL para backend.<br>
+ -  🔭 Actualmente trabajando en: <br>[mi-proyecto-django
+](https://github.com/Javi-kl/mi-proyecto-django) -  Proyecto de practicas django.<br>
 
 - 👯 Buscando colaborar en proyectos python
 
