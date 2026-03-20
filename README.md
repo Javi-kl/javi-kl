@@ -8,8 +8,8 @@ Desarrollador en formación con ganas de colaborar en proyectos reales y crecer 
 <br>
 
 
- -  🔭 Actualmente trabajando en: <br>[mi-proyecto-django
-](https://github.com/Javi-kl/mi-proyecto-django) -  Proyecto de practicas django.<br>
+ -  🔭 Actualmente trabajando en: <br>[Web-Personal-Django
+](https://github.com/Javi-kl/Web-Personal-Django) <br>
 
 - 👯 Buscando colaborar en proyectos python
 
