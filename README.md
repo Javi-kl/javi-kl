@@ -2,18 +2,17 @@
 
 <h2 align="left">Sobre mí</h2>
 
-Apasionado por construir backend seguro, eficiente y orientado a la privacidad.  
+Apasionado por construir backend seguro y orientado a la privacidad.  
 Desarrollador en formación con ganas de colaborar en proyectos reales y crecer profesionalmente.
 <br>
 <br>
 
 
- -  🔭 Actualmente trabajando en: <br>[Web-Personal-Django
-](https://github.com/Javi-kl/Web-Personal-Django) <br>
+ -  🔭 Actualmente trabajando en: <br>[Passwords-Secure-Vault](https://github.com/Javi-kl/Passwords-Secure-Vault)<br>
 
 - 👯 Buscando colaborar en proyectos python
 
-- 🌱 Aprendiendo: <br>![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br>
+- 🌱 Aprendiendo: <br>![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br>
 
 - 💬 Pregunta lo que quieras, te ayudaré si puedo 😉  
 
