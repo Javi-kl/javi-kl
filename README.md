@@ -4,7 +4,9 @@
 
 Junior Backend Developer | Python · FastAPI · PostgreSQL | APIs REST | Docker · Git
 
-Privacidad. Seguridad. Código testeable. Open source.
+Me interesa la privacidad, seguridad y open source.
+
+Mi objetivo es dedicar mi aprendizaje y mi carrera hacia estos ámbitos, dentro del desarrollo backend con Python.
 
 <br>
 <br>
@@ -35,24 +37,10 @@ Privacidad. Seguridad. Código testeable. Open source.
 
 <h2 align="left">Contacto</h2>
 
-
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/javi_kl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-s-3177722b9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:klife.richness688@passinbox.com)
 
-
-<br>
-
-<!-- Current Stats card -->
-</br>
-<h2>Estadisticas Github</h2>
-
-<div>
-
-  <a href="https://github.com/javi-kl">
-<img src="https://github-readme-stats.vercel.app/api?username=javi-kl&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
-    </a>
-</div>
 
 <br>
 </br>
