@@ -12,7 +12,7 @@ Mi objetivo es dedicar mi aprendizaje y mi carrera hacia estos ámbitos, dentro 
 <br>
 
 
- -  🔭 Actualmente trabajando en: <br>[Passwords-Secure-Vault](https://github.com/Javi-kl/Passwords-Secure-Vault)<br>
+ -  🔭 Actualmente trabajando en: <br>[llm-governance-api-proxy](https://github.com/Javi-kl/llm-governance-api-proxy)<br>
 
 - 👯 Buscando colaborar en proyectos python
 
