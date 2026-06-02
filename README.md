@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Javier Sotos</h1>
+<h1 align="center">Hola 👋</h1>
 
 <h2 align="left">Sobre mí</h2>
 
