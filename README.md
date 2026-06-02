@@ -44,9 +44,5 @@ Mi objetivo es dedicar mi aprendizaje y mi carrera hacia estos ámbitos, dentro 
 
 <br>
 </br>
-<h2>Estadisticas Codewars</h2>
-<div>
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=javikl)](https://github.com/ignacio-cuadra/github-readme-codewars)
-</div>
 
