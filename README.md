@@ -13,13 +13,13 @@ Intereses técnicos:
 - Automatización y herramientas para uso real.
 
 
-Actualmente estoy consolidando base backend mientras desarrollo proyectos relacionados con IA, privacidad y control de datos.
+Estoy consolidando base backend mientras desarrollo proyectos relacionados con IA, privacidad y control de datos.
 
 <br>
 
  🔭 Actualmente trabajando en: [llm-governance-api-proxy](https://github.com/Javi-kl/llm-governance-api-proxy)
 
-Proxy con FastAPI para controlar el uso de proveedores LLM: detecta datos sensibles, aplica políticas de allow/mask/block y registra auditoría sin guardar prompts ni respuestas completas.
+Proxy con FastAPI para controlar el uso de proveedores LLM: detecta datos sensibles, aplica políticas de allow/mask/block y registra auditoría.
 
 <br>
 
