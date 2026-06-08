@@ -4,29 +4,31 @@
 
 Junior Backend Developer | Python · FastAPI · PostgreSQL | APIs REST | Docker · Git
 
-Me interesa la privacidad, seguridad y open source.
+Intereses técnicos:
 
-Mi objetivo es dedicar mi aprendizaje y mi carrera hacia estos ámbitos, dentro del desarrollo backend con Python.
-
-<br>
-<br>
-
-
- -  🔭 Actualmente trabajando en: <br>[llm-governance-api-proxy](https://github.com/Javi-kl/llm-governance-api-proxy)<br>
-
-- 👯 Buscando colaborar en proyectos python
-
-- 💬 Pregunta lo que quieras, te ayudaré si puedo 😉  
+- Backend Python y APIs REST.
+- Sistemas IA privados/local-first.
+- RAG sobre conocimiento personal.
+- Seguridad, privacidad y trazabilidad.
+- Automatización y herramientas para uso real.
 
 
+Actualmente estoy consolidando base backend mientras desarrollo proyectos relacionados con IA, privacidad y control de datos.
 
 <br>
+
+ 🔭 Actualmente trabajando en: [llm-governance-api-proxy](https://github.com/Javi-kl/llm-governance-api-proxy)
+
+Proxy con FastAPI para controlar el uso de proveedores LLM: detecta datos sensibles, aplica políticas de allow/mask/block y registra auditoría sin guardar prompts ni respuestas completas.
+
 <br>
+
+
+
 <h2 align="left">Stack tecnológico</h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
