@@ -8,7 +8,7 @@ Estoy consolidando base backend mientras desarrollo proyectos relacionados con I
 
 Me gusta el desarrollo backend porque da control sobre los datos, la seguridad y el comportamiento real del sistema.
 
-Me interesan la privacidad y el software abierto desde una perspectiva práctica: reducir dependencia de plataformas cerradas, controlar mejor los datos y entender los compromisos reales entre comodidad, seguridad y experiencia de usuario.
+Me interesan la privacidad y el software abierto desde una perspectiva práctica: reducir dependencia de plataformas cerradas, controlar mejor los datos y entender los compromisos reales entre privacidad, seguridad y experiencia de usuario.
 
 También suelo instalar y configurar sistemas Linux buscando entornos más simples, controlados y reproducibles. Ahora estoy explorando NixOS, versionando su configuración con Git.
 
@@ -18,7 +18,8 @@ Intereses técnicos:
 - Sistemas IA privados/local-first.
 - RAG sobre conocimiento personal.
 - Seguridad, privacidad y trazabilidad.
-- Automatización y herramientas para uso real.
+- Sistemas Linux y entornos reproducibles.
+- Flujos de desarrollo asistidos por IA.
 
 
 <br>
