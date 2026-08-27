@@ -4,7 +4,7 @@
 
 Junior Backend Developer | Python · FastAPI · PostgreSQL | APIs REST | Docker · Git
 
-Estoy consolidando base backend mientras desarrollo proyectos relacionados con IA, privacidad y control de datos.
+Desarrollo proyectos relacionados con IA, privacidad y control de datos.
 
 Me gusta el desarrollo backend porque da control sobre los datos, la seguridad y el comportamiento real del sistema.
 
