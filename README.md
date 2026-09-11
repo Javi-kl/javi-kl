@@ -10,7 +10,6 @@ Me gusta el desarrollo backend porque da control sobre los datos, la seguridad y
 
 Me interesan la privacidad y el software abierto desde una perspectiva práctica: reducir dependencia de plataformas cerradas, controlar mejor los datos y entender los compromisos reales entre privacidad, seguridad y experiencia de usuario.
 
-También suelo configurar sistemas Linux buscando entornos más simples, controlados y reproducibles. Ahora estoy explorando NixOS, versionando su configuración con Git.
 
 Intereses técnicos:
 
@@ -24,9 +23,9 @@ Intereses técnicos:
 
 <br>
 
-Actualmente trabajando en: [llm-governance-api-proxy](https://github.com/Javi-kl/llm-governance-api-proxy)
+Actualmente trabajando en: [kl-librarian-harness](https://github.com/Javi-kl/kl-librarian-harness)
 
-Proxy con FastAPI para controlar el uso de proveedores LLM: detecta datos sensibles, aplica políticas de allow/mask/block y registra auditoría.
+Agent harness que gestiona una base de conocimiento .md: la mantiene sana e integra contenido nuevo, con aprobación y trazabilidad.
 
 <br>
 
