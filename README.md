@@ -6,19 +6,14 @@ Junior Backend Developer | Python · FastAPI · PostgreSQL | APIs REST | Docker 
 
 Desarrollo proyectos relacionados con IA, privacidad y control de datos.
 
-Me gusta el desarrollo backend porque da control sobre los datos, la seguridad y el comportamiento real del sistema.
-
-Me interesan la privacidad y el software abierto desde una perspectiva práctica: reducir dependencia de plataformas cerradas, controlar mejor los datos y entender los compromisos reales entre privacidad, seguridad y experiencia de usuario.
+Hago desarrollo backend porque da control sobre los datos, la seguridad y el comportamiento real del sistema.
 
 
 Intereses técnicos:
 
 - Backend Python y APIs REST.
 - Sistemas IA privados/local-first.
-- RAG sobre conocimiento personal.
 - Seguridad, privacidad y trazabilidad.
-- Sistemas Linux y entornos reproducibles.
-- Flujos de desarrollo asistidos por IA.
 
 
 <br>
